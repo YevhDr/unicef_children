@@ -1,0 +1,792 @@
+[
+    { 
+        "step": 0, 
+        "title": "Населення України", 
+         "data": [
+            { "age": "0-4", "male": 808213, "female": 758563, "group": "діти" },
+            { "age": "0-4", "male": 808213, "female": 758563, "group": "діти" },
+            { "age": "5-9", "male": 1145375, "female": 1076233, "group": "діти" },
+            { "age": "10-14", "male": 1201004, "female": 1130498, "group": "діти" },
+            { "age": "15-19", "male": 1018061, "female": 962236, "group": "діти" },
+            { "age": "15-19", "male": 1018061, "female": 962236, "group": "дорослі" },
+            { "age": "20-24", "male": 985767, "female": 926575, "group": "дорослі" },
+            { "age": "25-29", "male": 1255392, "female": 1188474, "group": "дорослі" },
+            { "age": "30-34", "male": 1626855, "female": 1565369, "group": "дорослі" },
+            { "age": "35-39", "male": 1802487,  "female": 1774705, "group": "дорослі" },
+            { "age": "40-44", "male": 1540983,  "female": 1584279, "group": "дорослі" },
+            { "age": "45-49", "male": 1431488,  "female": 1549310, "group": "дорослі" },
+            { "age": "50-54", "male": 1282853,  "female": 1454117, "group": "дорослі" },
+            { "age": "55-59", "male": 1238629,  "female": 1537849, "group": "дорослі" },
+            { "age": "60-64", "male": 1234430,  "female": 1686847, "group": "дорослі" },
+            { "age": "65-69", "male": 927988,  "female": 1462039, "group": "дорослі" },
+            { "age": "70-74", "male": 679851,  "female": 1232721, "group": "дорослі" },
+            { "age": "75-79", "male": 303609,  "female": 696736, "group": "дорослі" },
+            { "age": "80+", "male": 523994,  "female": 1404168, "group": "дорослі" }
+            ]
+    },
+    {
+        "step": 1,
+        "title": "Кількість дітей",
+        "data": [
+            {"xCat": 2008, "value": 8325687, "group": "діти"},
+            {"xCat": 2009, "value": 8186277, "group": "діти"},
+            {"xCat": 2010, "value": 8081126, "group": "діти"},
+            {"xCat": 2011, "value": 8003281, "group": "діти"},
+            {"xCat": 2012, "value": 7971638, "group": "діти"},
+            {"xCat": 2013, "value": 7990391, "group": "діти"},
+            {"xCat": 2014, "value": 8009866, "group": "діти"},
+            {"xCat": 2015, "value": 7614704, "group": "діти"},
+            {"xCat": 2016, "value": 7614006, "group": "діти"},
+            {"xCat": 2017, "value": 7615606, "group": "діти"},
+            {"xCat": 2018, "value": 7609297, "group": "діти"},
+            {"xCat": 2019, "value": 7579703, "group": "діти"},
+            {"xCat": 2020, "value": 7533930, "group": "діти"},
+            {"xCat": 2021, "value": 7459677, "group": "діти"},
+            {"xCat": 2022, "value": 7348531, "group": "діти"},
+            {"xCat": 2023, "value": 5384668, "group": "діти"}
+        ]
+    },
+    {
+        "step": 2,
+        "title": "ВПО",
+        "data": [
+            {"xCat": "Біженці", "value": 2210000, "group": "діти"},
+            {"xCat": "Біженці", "value": 4290000, "group": "дорослі"},
+            {"xCat": "ВПО", "value": 740000,  "group": "діти"},
+            {"xCat": "ВПО", "value": 2960000, "group": "дорослі"}
+        ]
+    },
+ 
+    {
+        "step":3,
+        "title": "Кількість народжень",
+        "data": [
+            {"xCat": 2008, "value": 510589, "group": "діти"},
+            {"xCat": 2009, "value": 512525, "group": "діти"},
+            {"xCat": 2010, "value": 497689, "group": "діти"},
+            {"xCat": 2011, "value": 502595, "group": "діти"},
+            {"xCat": 2012, "value": 520705, "group": "діти"},
+            {"xCat": 2013, "value": 503657, "group": "діти"},
+            {"xCat": 2014, "value": 465882, "group": "діти"},
+            {"xCat": 2015, "value": 411781, "group": "діти"},
+            {"xCat": 2016, "value": 397037, "group": "діти"},
+            {"xCat": 2017, "value": 363987, "group": "діти"},
+            {"xCat": 2018, "value": 335874, "group": "діти"},
+            {"xCat": 2019, "value": 308817, "group": "діти"},
+            {"xCat": 2020, "value": 293457, "group": "діти"},
+            {"xCat": 2021, "value": 271983, "group": "діти"},
+            {"xCat": 2022, "value": 196806, "group": "діти"},
+            {"xCat": 2023, "value": 187387, "group": "діти"}
+        ]
+    },
+    
+    
+    {
+        "step": 4,
+        "title": "Грошовий дохід у домогосподарствах із дітьми",
+        "data": [
+            { "xCat": "5000", "value": 103, "group": "діти"},
+            { "xCat": "10000", "value": 354, "group": "діти"},
+            { "xCat": "15000", "value": 452, "group": "діти"},
+            { "xCat": "20000", "value": 425, "group": "діти"},
+            { "xCat": "25000", "value": 411, "group": "діти"},
+            { "xCat": "30000", "value": 251, "group": "діти"},
+            { "xCat": "35000", "value": 222, "group": "діти"},
+            { "xCat": "40000", "value": 99, "group": "діти"},
+            { "xCat": "45000", "value": 93, "group": "діти"},
+            { "xCat": "50000", "value": 39, "group": "діти"},
+            { "xCat": "55000", "value": 73, "group": "діти"},
+            { "xCat": "60000", "value": 14, "group": "діти"},
+            { "xCat": "65000", "value": 19, "group": "діти"},
+            { "xCat": "70000", "value": 4, "group": "діти"},
+            { "xCat": "75000", "value": 8, "group": "діти"},
+            { "xCat": "80000", "value": 1, "group": "діти"},
+            { "xCat": "85000", "value": 10, "group": "діти"},
+            { "xCat": "90000", "value": 2, "group": "діти" },
+            { "xCat": "95000", "value": 1, "group": "діти" },
+            { "xCat": "100000", "value": 4, "group": "діти"}
+        ]
+    },
+    {
+        "step": 5,
+        "title": "Допомога багатодітним родинам",
+        "data": [
+            {"xCat": 2019, "value": 256227, "group": "діти"},
+            {"xCat": 2020, "value": 269306, "group": "діти"},
+            {"xCat": 2021, "value": 260200, "group": "діти"},
+            {"xCat": 2022, "value": 256100, "group": "діти"},
+            {"xCat": 2023, "value": 256500, "group": "діти"}
+           
+        ]
+    },
+    {
+        "step": 6,
+        "title": "Допомога одиноким батькам",
+        "data": [
+            {"xCat": 2014, "value": 566398, "group": "діти"},
+            {"xCat": 2015, "value": 591873, "group": "діти"},
+            {"xCat": 2016, "value": 368560, "group": "діти"},
+            {"xCat": 2017, "value": 281871, "group": "діти"},
+            {"xCat": 2018, "value": 287354, "group": "діти"},
+            {"xCat": 2019, "value": 360881, "group": "діти"},
+            {"xCat": 2020, "value": 404700, "group": "діти"},
+            {"xCat": 2021, "value": 123700, "group": "діти"},
+            {"xCat": 2022, "value": 139900, "group": "діти"},
+            {"xCat": 2023, "value": 145100, "group": "діти"}
+        ]
+    },
+    {
+        "step": 7,
+        "title": "Бідність в залежності від кількості дітей",
+        "data": [
+            {"xCat": "З 3+ дітьми", "value": 80, "group": "діти"},
+            {"xCat": "З 2 дітьми", "value": 65, "group": "діти"},
+            {"xCat": "З 1 дитиною", "value": 70, "group": "діти"},
+            {"xCat": "З дітьми", "value": 69, "group": "діти"}
+           
+        ]
+    },
+    {
+        "step": 8,
+        "title": "Забезпечення базовими речами, дом-ва із дітьми",
+        "data": [
+            {"xCat": "Не забезпечені водопроводом", "value": 31, "select": "Сімʼї із дітьми"},
+            {"xCat": "Отримують хоча б один вид соцдопомоги", "value": 28, "select": "Сімʼї із дітьми"},
+            {"xCat": "Не забезпечені каналізацією", "value": 47, "select": "Сімʼї із дітьми"},
+            {"xCat": "Не можуть дозволити дитині новий (не б/у) одяг", "value": 13, "select": "Сімʼї із дітьми"},
+            {"xCat": "Не вистачає коштів на споживання м’яса та риби двічі на тиждень?", "value": 24, "select": "Сімʼї із дітьми"},
+            {"xCat": "Не забезпечені водопроводом", "value": 45.5, "select": "3+ дитини"},
+            {"xCat": "Отримують хоча б один вид соцдопомоги", "value": 56.8, "select": "3+ дитини"},
+            {"xCat": "Не забезпечені каналізацією", "value": 71.4, "select": "3+ дитини"},
+            {"xCat": "Не можуть дозволити дитині новий (не б/у) одяг", "value": 20.7, "select": "3+ дитини"},
+            {"xCat": "Не вистачає коштів на споживання м’яса та риби двічі на тиждень?", "value": 30.4, "select": "3+ дитини"},
+            {"xCat": "Не забезпечені водопроводом", "value": 37.4, "select": "2 дитини"},
+            {"xCat": "Отримують хоча б один вид соцдопомоги", "value": 28.6, "select": "2 дитини"},
+            {"xCat": "Не забезпечені каналізацією", "value": 49.3, "select": "2 дитини"},
+            {"xCat": "Не можуть дозволити дитині новий (не б/у) одяг", "value": 12.5, "select": "2 дитини"},
+            {"xCat": "Не вистачає коштів на споживання м’яса та риби двічі на тиждень?", "value": 23.7, "select": "2 дитини"},
+            {"xCat": "Не забезпечені водопроводом", "value": 27.3, "select": "1 дитина"},
+            {"xCat": "Отримують хоча б один вид соцдопомоги", "value": 25, "select": "1 дитина"},
+            {"xCat": "Не забезпечені каналізацією", "value": 42.7, "select": "1 дитина"},
+            {"xCat": "Не можуть дозволити дитині новий (не б/у) одяг", "value": 12.2, "select": "1 дитина"},
+            {"xCat": "Не вистачає коштів на споживання м’яса та риби двічі на тиждень?", "value": 22.7, "select": "1 дитина"}
+        ],
+        "select": true,
+            "default": "3+ дитини",
+            "options": [
+                {"value": "Сімʼї із дітьми", "label": "Сімʼї із дітьми"},
+                {"value": "3+ дитини", "label": "3+ дитини"},
+                {"value": "2 дитини", "label": "2 дитини"},
+                {"value": "1 дитина", "label": "1 дитина"}
+            ]
+    },
+    {
+        "step": 9,
+        "title": "Джерела води у дом-вах із дітьми",
+        "data": [
+            {"xCat": "Інше", "value": 0.27, "group": "діти"},
+            {"xCat": "Привізна питна вода", "value": 1.83, "group": "діти"},
+            {"xCat": "Громадський колодязь", "value": 4.66, "group": "діти"},
+            {"xCat": "Бутильована вода", "value": 13.78, "group": "діти"},
+            {"xCat": "Питна вода з пунктів розливу", "value": 15.85, "group": "діти"},
+            {"xCat": "Водопровідна вода", "value": 29.52, "group": "діти"},
+            {"xCat": "Власний колодязь, свердловина", "value": 34.1, "group": "діти"}
+
+
+        ]
+    }, 
+  
+    {
+        "step": 11,
+        "title": "Доступ до водопостачання у лікарнях",
+        "data": [
+            {"xCat": "Donetska", "value": 63.26530612, "group": "доступна"},
+            {"xCat": "Donetska", "value": 35.71428571, "group": "частково доступна"},
+            {"xCat": "Donetska", "value": 1.020408163, "group": "недоступна"},
+            {"xCat": "Khersonska", "value": 70.83333333, "group": "доступна"},
+            {"xCat": "Khersonska", "value": 27.77777778, "group": "частково доступна"},
+            {"xCat": "Khersonska", "value": 1.388888889, "group": "недоступна"},
+            {"xCat": "Sumska", "value": 76.70454545, "group": "доступна"},
+            {"xCat": "Sumska", "value": 23.29545455, "group": "частково доступна"},
+            {"xCat": "Sumska", "value": 0, "group": "недоступна"},
+            {"xCat": "Kharkivska", "value": 86.5008881, "group": "доступна"},
+            {"xCat": "Kharkivska", "value": 12.43339254, "group": "частково доступна"},
+            {"xCat": "Kharkivska", "value": 1.065719361, "group": "недоступна"},
+            {"xCat": "Odeska", "value": 88.03827751, "group": "доступна"},
+            {"xCat": "Odeska", "value": 11.80223285, "group": "частково доступна"},
+            {"xCat": "Odeska", "value": 0.1594896332, "group": "недоступна"},
+            {"xCat": "Kyivska", "value": 91.2106136, "group": "доступна"},
+            {"xCat": "Kyivska", "value": 8.789386401, "group": "частково доступна"},
+            {"xCat": "Kyivska", "value": 0, "group": "недоступна"},
+            {"xCat": "Zaporizka", "value": 92.26190476, "group": "доступна"},
+            {"xCat": "Zaporizka", "value": 7.142857143, "group": "частково доступна"},
+            {"xCat": "Zaporizka", "value": 0.5952380952, "group": "недоступна"},
+            {"xCat": "Mykolaivska", "value": 92.68929504, "group": "доступна"},
+            {"xCat": "Mykolaivska", "value": 7.310704961, "group": "частково доступна"},
+            {"xCat": "Mykolaivska", "value": 0, "group": "недоступна"},
+            {"xCat": "Zhytomyrska", "value": 93.7896071, "group": "доступна"},
+            {"xCat": "Zhytomyrska", "value": 3.802281369, "group": "частково доступна"},
+            {"xCat": "Zhytomyrska", "value": 2.408111534, "group": "недоступна"},
+            {"xCat": "Dnipropetrovska", "value": 93.95061728, "group": "доступна"},
+            {"xCat": "Dnipropetrovska", "value": 6.049382716, "group": "частково доступна"},
+            {"xCat": "Dnipropetrovska", "value": 0, "group": "недоступна"},
+            {"xCat": "Kirovohradska", "value": 94.76923077, "group": "доступна"},
+            {"xCat": "Kirovohradska", "value": 5.230769231, "group": "частково доступна"},
+            {"xCat": "Kirovohradska", "value": 0, "group": "недоступна"},
+            {"xCat": "Chernivetska", "value": 94.87179487, "group": "доступна"},
+            {"xCat": "Chernivetska", "value": 4.615384615, "group": "частково доступна"},
+            {"xCat": "Chernivetska", "value": 0.5128205128, "group": "недоступна"},
+            {"xCat": "Khmelnytska", "value": 95.86206897, "group": "доступна"},
+            {"xCat": "Khmelnytska", "value": 3.862068966, "group": "частково доступна"},
+            {"xCat": "Khmelnytska", "value": 0.275862069, "group": "недоступна"},
+            {"xCat": "Lvivska", "value": 96.02076125, "group": "доступна"},
+            {"xCat": "Lvivska", "value": 3.979238754, "group": "частково доступна"},
+            {"xCat": "Lvivska", "value": 0, "group": "недоступна"},
+            {"xCat": "Volynska", "value": 96.88715953, "group": "доступна"},
+            {"xCat": "Volynska", "value": 0.7782101167, "group": "частково доступна"},
+            {"xCat": "Volynska", "value": 2.33463035, "group": "недоступна"},
+            {"xCat": "Poltavska", "value": 97.30586371, "group": "доступна"},
+            {"xCat": "Poltavska", "value": 1.584786054, "group": "частково доступна"},
+            {"xCat": "Poltavska", "value": 1.109350238, "group": "недоступна"},
+            {"xCat": "Rivnenska", "value": 97.56637168, "group": "доступна"},
+            {"xCat": "Rivnenska", "value": 2.433628319, "group": "частково доступна"},
+            {"xCat": "Rivnenska", "value": 0, "group": "недоступна"},
+            {"xCat": "Cherkaska", "value": 97.6635514, "group": "доступна"},
+            {"xCat": "Cherkaska", "value": 2.336448598, "group": "частково доступна"},
+            {"xCat": "Cherkaska", "value": 0, "group": "недоступна"},
+            {"xCat": "Ternopilska", "value": 99.20634921, "group": "доступна"},
+            {"xCat": "Ternopilska", "value": 0.7936507937, "group": "частково доступна"},
+            {"xCat": "Ternopilska", "value": 0, "group": "недоступна"},
+            {"xCat": "Ivano Frankivska", "value": 99.23195084, "group": "доступна"},
+            {"xCat": "Ivano Frankivska", "value": 0.4608294931, "group": "частково доступна"},
+            {"xCat": "Ivano Frankivska", "value": 0.3072196621, "group": "недоступна"},
+            {"xCat": "Chernihivska", "value": 99.35064935, "group": "доступна"},
+            {"xCat": "Chernihivska", "value": 0.6493506494, "group": "частково доступна"},
+            {"xCat": "Chernihivska", "value": 0, "group": "недоступна"},
+            {"xCat": "Zakarpatska", "value": 99.56989247, "group": "доступна"},
+            {"xCat": "Zakarpatska", "value": 0.2150537634, "group": "частково доступна"},
+            {"xCat": "Zakarpatska", "value": 0.2150537634, "group": "недоступна"},
+            {"xCat": "Kyiv City", "value": 100, "group": "доступна"},
+            {"xCat": "Kyiv City", "value": 0, "group": "частково доступна"},
+            {"xCat": "Kyiv City", "value": 0, "group": "недоступна"},
+            {"xCat": "Vinnytska", "value": 100, "group": "доступна"},
+            {"xCat": "Vinnytska", "value": 0, "group": "частково доступна"},
+            {"xCat": "Vinnytska", "value": 0, "group": "недоступна"}
+          ]
+          
+          
+        
+    },
+    {
+        "step": 10,
+        "title": "Доступ дітей до води санітарії та гігієни",
+        "data": [
+            {"xCat": "", "value": 1900000, "group": "обмежений"},
+            {"xCat": "", "value": 3484668, "group": "достатній"}
+        ]
+        
+    },
+    {
+        "step": 12,
+        "title": "Кількість абортів",
+        "data": [
+            { "xCat": 2008, "value": 217413, "percent": 42.5, "group": "діти" },
+            { "xCat": 2009, "value": 194845, "percent": 38, "group": "діти" },
+            { "xCat": 2010, "value": 176774, "percent": 35.5, "group": "діти" },
+            { "xCat": 2011, "value": 169131, "percent": 33.6, "group": "діти" },
+            { "xCat": 2012, "value": 153147, "percent": 29.4, "group": "діти" },
+            { "xCat": 2013, "value": 147736, "percent": 29.3, "group": "діти" },
+            { "xCat": 2014, "value": 116104, "percent": 24.9, "group": "діти" },
+            { "xCat": 2015, "value": 106357, "percent": 25.8, "group": "діти" },
+            { "xCat": 2016, "value": 101121, "percent": 25.4, "group": "діти" },
+            { "xCat": 2017, "value": 94665, "percent": 26, "group": "діти" },
+            { "xCat": 2018, "value": 86678, "percent": 25.8,  "group": "діти" },
+            { "xCat": 2019, "value": 79562, "percent": 25.7, "group": "діти" },
+            { "xCat": 2020, "value": 64893, "percent": 22.1, "group": "діти" },
+            { "xCat": 2021, "value": 55156, "percent": 20.2, "group": "діти" },
+            {  "xCat": 2022, "value": 46992, "percent": 23.8, "group": "діти" },
+            {  "xCat": 2023, "value": 45186, "percent": 24.1, "group": "діти" }
+        ]
+    },
+    {
+            "step": 13,
+            "title": "Кількість дітей на різниз формах альтернативного догляду",
+            "data": [
+                { "xCat": "Formal residential care", "value": 4645, "group": "діти з інвалідністю" },
+                { "xCat": "Formal residential care", "value": 20442, "group": "діти без інвалідності" },
+                { "xCat": "Formal kinship care", "value": 1348, "group": "діти з інвалідністю" },
+                { "xCat": "Formal kinship care", "value": 45132, "group": "діти без інвалідності" },
+                { "xCat": "Formal foster care", "value": 309, "group": "діти з інвалідністю" },
+                { "xCat": "Formal foster care", "value": 5312, "group": "діти без інвалідності" },
+                { "xCat": "Other formal family-based care", "value": 470, "group": "діти з інвалідністю" },
+                { "xCat": "Other formal family-based care", "value": 8567, "group": "діти без інвалідності" }
+            ]
+        },
+        {
+            "step": 14,
+            "title": "Динаміка неонатальної смертності",
+            "data": [
+                { "xCat": 2019, "value": 667, "select": "всього" },
+                { "xCat": 2020, "value": 675, "select": "всього" },
+                { "xCat": 2021, "value": 582, "select": "всього" },
+                { "xCat": 2022, "value": 414, "select": "всього" },
+                { "xCat": 2023, "value": 399, "select": "всього" },
+                { "xCat": 2019, "value": 564, "select": "0-6 діб" },
+                { "xCat": 2020, "value": 573, "select": "0-6 діб" },
+                { "xCat": 2021, "value": 469, "select": "0-6 діб" },
+                { "xCat": 2022, "value": 344, "select": "0-6 діб" },
+                { "xCat": 2023, "value": 323, "select": "0-6 діб" }
+            ],
+            "select": true,
+            "default": "всього",
+            "options": [
+                {"value": "всього", "label": "всього"},
+                {"value": "0-6 діб", "label": "0-6 діб"}
+            ]
+        },
+        {
+            "step": 15,
+            "title": "Динаміка материнської смертності на 100 000 живонароджень",
+            "data": [
+                { "xCat": 2019, "value": 12.5, "group": "всього" },
+                { "xCat": 2020, "value": 17.6, "group": "всього" },
+                { "xCat": 2021, "value": 31.8, "group": "всього" },
+                { "xCat": 2022, "value": 14.02, "group": "всього" },
+                { "xCat": 2023, "value": 11.4, "group": "всього" }
+            ]
+        },
+        {
+            "step": 16,
+            "title": "Динаміка вакцинації Poly/DTP/MCV,%",
+            "data": [
+                {"xCat":2014,"value":38.4,"select":"DTP 3"},
+                {"xCat":2015,"value":26.8,"select":"DTP 3"},
+                {"xCat":2016,"value":21.5,"select":"DTP 3"},
+                {"xCat":2017,"value":53.2,"select":"DTP 3"},
+                {"xCat":2018,"value":69.3,"select":"DTP 3"},
+                {"xCat":2019,"value":80.5,"select":"DTP 3"},
+                {"xCat":2020,"value":80.1,"select":"DTP 3"},
+                {"xCat":2021,"value":80,"select":"DTP 3"},
+                {"xCat":2022,"value":72.9,"select":"DTP 3"},
+                {"xCat":2023,"value":83.4,"select":"DTP 3"},
+                {"xCat":2014,"value":38.7,"select":"MCV 2"},
+                {"xCat":2015,"value":62.2,"select":"MCV 2"},
+                {"xCat":2016,"value":31,"select":"MCV 2"},
+                {"xCat":2017,"value":90.7,"select":"MCV 2"},
+                {"xCat":2018,"value":89.5,"select":"MCV 2"},
+                {"xCat":2019,"value":91.7,"select":"MCV 2"},
+                {"xCat":2020,"value":83.4,"select":"MCV 2"},
+                {"xCat":2021,"value":86.8,"select":"MCV 2"},
+                {"xCat":2022,"value":69.1,"select":"MCV 2"},
+                {"xCat":2023,"value":87.3,"select":"MCV 2"},
+                {"xCat":2014,"value":44.7,"select":"Polio 3 (1 year)"},
+                {"xCat":2015,"value":63.7,"select":"Polio 3 (1 year)"},
+                {"xCat":2016,"value":60.9,"select":"Polio 3 (1 year)"},
+                {"xCat":2017,"value":51.9,"select":"Polio 3 (1 year)"},
+                {"xCat":2018,"value":71.1,"select":"Polio 3 (1 year)"},
+                {"xCat":2019,"value":78.4,"select":"Polio 3 (1 year)"},
+                {"xCat":2020,"value":83,"select":"Polio 3 (1 year)"},
+                {"xCat":2021,"value":80.1,"select":"Polio 3 (1 year)"},
+                {"xCat":2022,"value":68.9,"select":"Polio 3 (1 year)"},
+                {"xCat":2023,"value":84.9,"select":"Polio 3 (1 year)"}
+
+            ],
+            "select": true,
+            "default": "DTP 3",
+            "options": [
+                {"value": "MCV 2", "label": "MCV 2"},
+                {"value": "DTP 3", "label": "DTP 3"},
+                {"value": "Polio 3 (1 year)", "label": "Polio 3 (1 year)"}
+            ]
+        },
+        {
+            "step": 17,
+            "title": "Підліткова вагітність та аборти",
+            "data": [
+                {"xCat": 2019, "value": 93, "group": "пологи до 14 років" },
+                {"xCat": 2020, "value": 114,"group": "пологи до 14 років" },
+                {"xCat": 2021,"value": 90, "group": "пологи до 14 років" },
+                {"xCat": 2022, "value": 94,"group": "пологи до 14 років" },
+                {"xCat": 2023, "value": 99, "group": "пологи до 14 років"},
+                {"xCat": 2019,"value": 3206,"group": "пологи 15-17 років"},
+                { "xCat": 2020, "value": 3177, "group": "пологи 15-17 років" },
+                { "xCat": 2021,"value": 2979, "group": "пологи 15-17 років" },
+                { "xCat": 2022, "value": 2256, "group": "пологи 15-17 років" },
+                { "xCat": 2023, "value": 2034, "group": "пологи 15-17 років" },
+                {"xCat":2019,"value":47,"group":"аборти < 14 років"},
+                {"xCat":2020,"value":35,"group":"аборти < 14 років"},
+                {"xCat":2021,"value":57,"group":"аборти < 14 років"},
+                {"xCat":2022,"value":35,"group":"аборти < 14 років"},
+                {"xCat":2023,"value":29,"group":"аборти < 14 років"}, 
+                {"xCat":2019,"value":721,"group":"аборти 15-17 років"},
+                {"xCat":2020,"value":559,"group":"аборти 15-17 років"},
+                {"xCat":2021,"value":594,"group":"аборти 15-17 років"},
+                {"xCat":2022,"value":383,"group":"аборти 15-17 років"},
+                {"xCat":2023,"value":435,"group":"аборти 15-17 років"}
+            ]
+        },
+        { 
+            "step": 18,
+            "title": "Кількість дітей у садочках",
+            "data": [
+                {"xCat": 2008, "value": 1195000},
+                {"xCat": 2009, "value": 1214000},
+                {"xCat": 2010, "value": 1273000},
+                {"xCat": 2011, "value": 1354000},
+                {"xCat": 2012, "value": 1428000},
+                {"xCat": 2013, "value": 1471000},
+                {"xCat": 2014, "value": 1295000},
+                {"xCat": 2015, "value": 1291000},
+                {"xCat": 2016, "value": 1300000},
+                {"xCat": 2017, "value": 1304000},
+                {"xCat": 2018, "value": 1278000},
+                {"xCat": 2019, "value": 1230000},
+                {"xCat": 2020, "value": 1151000},
+                {"xCat": 2021, "value": 1111358},
+                {"xCat": 2022, "value": 934355},
+                {"xCat": 2023, "value": 836445}
+            ]
+        },
+        {
+            "step": 17,
+            "title": "Діти з особливими потребами у садочках",
+            "data": [
+                {"xCat":"Діти-сироти","value":1844, "group": "діти"},
+                {"xCat":"Діти з інвалідністю","value":7808, "group": "діти"},
+                {"xCat":"Діти з ООП (в інклюзивних групах)","value":13065, "group": "діти"},
+                {"xCat":"Діти з ООП","value":55361, "group": "діти"}
+            ]
+        },
+        {
+            "step": 18,
+            "title": "Муніципальна няня",
+            "data": [
+                {"xCat": 2019, "value": 7025},
+                {"xCat": 2020, "value": 47000},
+                {"xCat": 2021, "value": 10700},
+                {"xCat": 2022, "value": 9200},
+                {"xCat": 2023, "value": 7500}
+            ]
+        },
+        {
+            "step": 19,
+            "title": "Форма навчання у садках",
+            "data": [
+                {"xCat": "Sept, 22", "value": 319046, "group": "онлайн"},
+                {"xCat": "Oct, 22", "value": 374405, "group": "онлайн"},
+                {"xCat": "Dec, 22", "value": 238290, "group": "онлайн"},
+                {"xCat": "March, 23", "value": 219361, "group": "онлайн"},
+                {"xCat": "April, 23", "value": 182666, "group": "онлайн"},
+                {"xCat": "May, 23", "value": 191702, "group": "онлайн"},
+                {"xCat": "Sept, 23", "value": 130882, "group": "онлайн"},
+                {"xCat": "Feb, 24", "value": 116700, "group": "онлайн"},
+                {"xCat": "Sept, 22", "value": 51815, "group": "змішане"},
+                {"xCat": "Oct, 22", "value": 53847, "group": "змішане"},
+                {"xCat": "Dec, 22", "value": 108967, "group": "змішане"},
+                {"xCat": "March, 23", "value": 96548, "group": "змішане"},
+                {"xCat": "April, 23", "value": 131193, "group": "змішане"},
+                {"xCat": "May, 23", "value": 108927, "group": "змішане"},
+                {"xCat": "Sept, 23", "value": 69008, "group": "змішане"},
+                {"xCat": "Feb, 24", "value": 75278, "group": "змішане"},
+                {"xCat": "Sept, 22", "value": 322755, "group": "очне"},
+                {"xCat": "Oct, 22", "value": 235677, "group": "очне"},
+                {"xCat": "Dec, 22", "value": 348142, "group": "очне"},
+                {"xCat": "March, 23", "value": 402804, "group": "очне"},
+                {"xCat": "April, 23", "value": 436651, "group": "очне"},
+                {"xCat": "May, 23", "value": 462468, "group": "очне"},
+                {"xCat": "Sept, 23", "value": 523466, "group": "очне"},
+                {"xCat": "Feb, 24", "value": 549429, "group": "очне"}
+            ]
+        },
+        {
+            "step": 20, 
+            "title": "ВПО у садочках",
+            "data": [
+                {"xCat": "", "value": 47092, "group": "ВПО"},
+                {"xCat": "", "value": 789353, "group": "Не ВПО"}
+            ]
+        },
+        { 
+            "step": 21,
+            "title": "Кількість дітей у школах",
+            "data": [
+                {"xCat": 2008, "value": 4857000},
+                {"xCat": 2009, "value": 4617000},
+                {"xCat": 2010, "value": 4495000},
+                {"xCat": 2011, "value": 4299000},
+                {"xCat": 2012, "value": 4292000},
+                {"xCat": 2013, "value": 4222000},
+                {"xCat": 2014, "value": 4204000},
+                {"xCat": 2015, "value": 3757000},
+                {"xCat": 2016, "value": 3783150},
+                {"xCat": 2017, "value": 3845517},
+                {"xCat": 2018, "value": 3921673},
+                {"xCat": 2019, "value": 4041652},
+                {"xCat": 2020, "value": 4138466},
+                {"xCat": 2021, "value": 4211509},
+                {"xCat": 2022, "value": 4230358},
+                {"xCat": 2023, "value": 4041976},
+                {"xCat": 2024, "value": 3906174}
+            ]
+        },
+       
+        {
+            "step": 22,
+            "title": "Діти з особливими потребами у школах",
+            "data": [
+                {"xCat": "Діти з малозабезпечених сімей", "value": 84116, "group": "діти"},
+                {"xCat": "Діти з інвалідністю", "value": 56291, "group": "діти"},
+                {"xCat": "Діти з ООС", "value": 50756, "group": "діти"},
+                {"xCat": "Діти з ООС", "value": 40147, "group": "діти"},
+                {"xCat": "Діти-сироти", "value": 37757, "group": "діти"}
+              ]
+              
+        },
+        {
+            "step": 23,
+            "title": "Динаміка кількості шкіл",
+            "data": [
+                {"xCat": 2008, "value": 21000},
+                {"xCat": 2009, "value": 20600},
+                {"xCat": 2010, "value": 20300},
+                {"xCat": 2011, "value": 19900},
+                {"xCat": 2012, "value": 19700},
+                {"xCat": 2013, "value": 19300},
+                {"xCat": 2014, "value": 17600},
+                {"xCat": 2015, "value": 17337},
+                {"xCat": 2016, "value": 16858},
+                {"xCat": 2017, "value": 16180},
+                {"xCat": 2018, "value": 15521},
+                {"xCat": 2019, "value": 15194},
+                {"xCat": 2020, "value": 14873},
+                {"xCat": 2021, "value": 13991},
+                {"xCat": 2022, "value": 12976},
+                {"xCat": 2023, "value": 12701}
+              ]
+              
+        },
+        {
+            "step": 24,
+            "title": "Співвідношення вчителів та учнів",
+            "data": [
+                {"xCat": 2008, "value": 8.81},
+                {"xCat": 2009, "value": 8.61},
+                {"xCat": 2010, "value": 8.35},
+                {"xCat": 2011, "value": 8.43},
+                {"xCat": 2012, "value": 8.28},
+                {"xCat": 2013, "value": 8.28},
+                {"xCat": 2014, "value": 8.28},
+                {"xCat": 2015, "value": 8.52},
+                {"xCat": 2016, "value": 8.79},
+                {"xCat": 2017, "value": 8.92},
+                {"xCat": 2018, "value": 9.16},
+                {"xCat": 2019, "value": 9.41},
+                {"xCat": 2020, "value": 9.58},
+                {"xCat": 2021, "value": 9.73},
+                {"xCat": 2022, "value": 10.06},
+                {"xCat": 2023, "value": 10.01}
+              ]
+              
+        },
+        {
+            "step": 25,
+            "title": "Форма освіти в школах",
+            "data": [
+                {"xCat": "Sep, 22", "value": 855633, "group": "очне"},
+                {"xCat": "Oct, 22", "value": 623113, "group": "очне"},
+                {"xCat": "Dec, 22", "value": 1018725, "group": "очне"},
+                {"xCat": "Mar, 23", "value": 1252211, "group": "очне"},
+                {"xCat": "May, 23", "value": 1331938, "group": "очне"},
+                {"xCat": "Sep, 23", "value": 1934028, "group": "очне"},
+                {"xCat": "Feb, 24", "value": 1954608, "group": "очне"},
+                {"xCat": "Sep, 22", "value": 2028037, "group": "онлайн"},
+                {"xCat": "Oct, 22", "value": 2587255, "group": "онлайн"},
+                {"xCat": "Dec, 22", "value": 1788470, "group": "онлайн"},
+                {"xCat": "Mar, 23", "value": 1615452, "group": "онлайн"},
+                {"xCat": "May, 23", "value": 1454702, "group": "онлайн"},
+                {"xCat": "Sep, 23", "value": 907414, "group": "онлайн"},
+                {"xCat": "Feb, 24", "value": 962035, "group": "онлайн"},
+                {"xCat": "Sep, 22", "value": 1063918, "group": "змішане"},
+                {"xCat": "Oct, 22", "value": 774026, "group": "змішане"},
+                {"xCat": "Dec, 22", "value": 1179851, "group": "змішане"},
+                {"xCat": "Mar, 23", "value": 1120094, "group": "змішане"},
+                {"xCat": "May, 23", "value": 1213751, "group": "змішане"},
+                {"xCat": "Sep, 23", "value": 1010673, "group": "змішане"},
+                {"xCat": "Feb, 24", "value": 906446, "group": "змішане"}
+              ]
+              
+        },
+        {
+            "step": 26, 
+            "title": "ВПО у школах",
+            "data": [
+                {"xCat": "", "value": 3732738, "group": "Не ВПО"},
+                {"xCat": "", "value": 173436, "group": "ВПО"}
+               
+            ]
+        },
+        {
+            "step": 27,
+            "title": "Вік студентів ПТУ", 
+            "data": [
+                {"xCat": "30 and older", "value": 17042},
+                {"xCat": "25-29", "value": 8297},
+                {"xCat": "20-24", "value": 13006},
+                {"xCat": "19", "value": 1434},
+                {"xCat": "18", "value": 3642},
+                {"xCat": "17", "value": 58356},
+                {"xCat": "16", "value": 45357},
+                {"xCat": "15", "value": 2917},
+                {"xCat": "14 and younger", "value": 290}
+              ]
+        },
+        {
+            "step": 28,
+            "title": "Злочини",
+            "data": [
+                {"xCat": 2019, "value": 175, "group": "до 14 років", "select": "Всього осіб"},
+                {"xCat": 2019, "value": 1121, "group": "14-15 років", "select": "Всього осіб"},
+                {"xCat": 2019, "value": 2199, "group": "16-17 років", "select": "Всього осіб"},
+                {"xCat": 2020, "value": 193, "group": "до 14 років", "select": "Всього осіб"},
+                {"xCat": 2020, "value": 899, "group": "14-15 років", "select": "Всього осіб"},
+                {"xCat": 2020, "value": 1921, "group": "16-17 років", "select": "Всього осіб"},
+                {"xCat": 2021, "value": 157, "group": "до 14 років", "select": "Всього осіб"},
+                {"xCat": 2021, "value": 773, "group": "14-15 років", "select": "Всього осіб"},
+                {"xCat": 2021, "value": 1719, "group": "16-17 років", "select": "Всього осіб"},
+                {"xCat": 2022, "value": 78, "group": "до 14 років", "select": "Всього осіб"},
+                {"xCat": 2022, "value": 388, "group": "14-15 років", "select": "Всього осіб"},
+                {"xCat": 2022, "value": 903, "group": "16-17 років", "select": "Всього осіб"},
+                {"xCat": 2023, "value": 114, "group": "до 14 років", "select": "Всього осіб"},
+                {"xCat": 2023, "value": 540, "group": "14-15 років", "select": "Всього осіб"},
+                {"xCat": 2023, "value": 1098, "group": "16-17 років", "select": "Всього осіб"}
+              ]
+        },
+        {
+            "step": 29,
+            "title": "Вироки",
+            "data": [
+                {"xCat": 2015, "value": 192, "group": "pre-sentence detention"},
+                {"xCat": 2016, "value": 159, "group": "pre-sentence detention"},
+                {"xCat": 2017, "value": 133, "group": "pre-sentence detention"},
+                {"xCat": 2018, "value": 120, "group": "pre-sentence detention"},
+                {"xCat": 2019, "value": 138, "group": "pre-sentence detention"},
+                {"xCat": 2020, "value": 127, "group": "pre-sentence detention"},
+                {"xCat": 2021, "value": 97, "group": "pre-sentence detention"},
+                {"xCat": 2022, "value": 94, "group": "pre-sentence detention"},
+                {"xCat": 2015, "value": 222, "group": "post-sentence detention"},
+                {"xCat": 2016, "value": 174, "group": "post-sentence detention"},
+                {"xCat": 2017, "value": 93, "group": "post-sentence detention"},
+                {"xCat": 2018, "value": 65, "group": "post-sentence detention"},
+                {"xCat": 2019, "value": 42, "group": "post-sentence detention"},
+                {"xCat": 2020, "value": 37, "group": "post-sentence detention"},
+                {"xCat": 2021, "value": 29, "group": "post-sentence detention"},
+                {"xCat": 2022, "value": 26, "group": "post-sentence detention"}
+              ]
+        },
+        {
+            "step": 30,
+            "title": "Жертви злочинів",
+            "data": [
+                {"xCat": 2019, "value": 5471},
+                {"xCat": 2020, "value": 5236},
+                {"xCat": 2021, "value": 5875},
+                {"xCat": 2022, "value": 8608},
+                {"xCat": 2023, "value": 11495}
+              ]
+              
+        },
+        {
+            "step": 31,
+            "title": "Згвалтування/Домашнє насильство/Торгівля людьми",
+            "data": [
+                {"xCat": 2019, "value": 92, "group": "0-13", "select": "rape"},
+                {"xCat": 2020, "value": 151, "group": "0-13", "select": "rape"},
+                {"xCat": 2021, "value": 148, "group": "0-13", "select": "rape"},
+                {"xCat": 2022, "value": 97, "group": "0-13", "select": "rape"},
+                {"xCat": 2023, "value": 172, "group": "0-13", "select": "rape"},
+                {"xCat": 2019, "value": 56, "group": "14-18", "select": "rape"},
+                {"xCat": 2020, "value": 82, "group": "14-18", "select": "rape"},
+                {"xCat": 2021, "value": 136, "group": "14-18", "select": "rape"},
+                {"xCat": 2022, "value": 61, "group": "14-18", "select": "rape"},
+                {"xCat": 2023, "value": 207, "group": "14-18", "select": "rape"},
+                {"xCat": 2019, "value": 139, "group": "0-13", "select": "home violence"},
+                {"xCat": 2020, "value": 119, "group": "0-13", "select": "home violence"},
+                {"xCat": 2021, "value": 227, "group": "0-13", "select": "home violence"},
+                {"xCat": 2022, "value": 119, "group": "0-13", "select": "home violence"},
+                {"xCat": 2023, "value": 301, "group": "0-13", "select": "home violence"},
+                {"xCat": 2019, "value": 49, "group": "14-18", "select": "home violence"},
+                {"xCat": 2020, "value": 80, "group": "14-18", "select": "home violence"},
+                {"xCat": 2021, "value": 192, "group": "14-18", "select": "home violence"},
+                {"xCat": 2022, "value": 87, "group": "14-18", "select": "home violence"},
+                {"xCat": 2023, "value": 270, "group": "14-18", "select": "home violence"},
+                {"xCat": 2019, "value": 2, "group": "0-13", "select": "human traffic"},
+                {"xCat": 2020, "value": 1, "group": "0-13", "select": "human traffic"},
+                {"xCat": 2021, "value": 17, "group": "0-13", "select": "human traffic"},
+                {"xCat": 2022, "value": 7, "group": "0-13", "select": "human traffic"},
+                {"xCat": 2023, "value": 10, "group": "0-13", "select": "human traffic"},
+                {"xCat": 2019, "value": 8, "group": "14-18", "select": "human traffic"},
+                {"xCat": 2020, "value": 0, "group": "14-18", "select": "human traffic"},
+                {"xCat": 2021, "value": 9, "group": "14-18", "select": "human traffic"},
+                {"xCat": 2022, "value": 5, "group": "14-18", "select": "human traffic"},
+                {"xCat": 2023, "value": 6, "group": "14-18", "select": "human traffic"}
+              ],
+              "select": true,
+              "default": "rape",
+              "options": [
+                {"value": "rape", "label": "rape"},
+                {"value": "home violence", "label": "home violence"},
+                {"value": "human traffic", "label": "human traffic"}
+            ]
+              
+              
+        },
+        {
+            "step": 32,
+            "title": "Типи злочинів",
+            "data":[
+                {"xCat": 2019, "value": 936, "group": "ДТП"},
+                {"xCat": 2020, "value": 953, "group": "ДТП"},
+                {"xCat": 2021, "value": 975, "group": "ДТП"},
+                {"xCat": 2022, "value": 666, "group": "ДТП"},
+                {"xCat": 2023, "value": 900, "group": "ДТП"},
+                {"xCat": 2019, "value": 188, "group": "Домашнє насильство"},
+                {"xCat": 2020, "value": 199, "group": "Домашнє насильство"},
+                {"xCat": 2021, "value": 419, "group": "Домашнє насильство"},
+                {"xCat": 2022, "value": 206, "group": "Домашнє насильство"},
+                {"xCat": 2023, "value": 571, "group": "Домашнє насильство"},
+                {"xCat": 2019, "value": 0, "group": "порушення законів та звичаїв війни"},
+                {"xCat": 2020, "value": 0, "group": "порушення законів та звичаїв війни"},
+                {"xCat": 2021, "value": 0, "group": "порушення законів та звичаїв війни"},
+                {"xCat": 2022, "value": 4206, "group": "порушення законів та звичаїв війни"},
+                {"xCat": 2023, "value": 2590, "group": "порушення законів та звичаїв війни"}
+              ]
+              
+        },
+        {
+
+            "step": 33,
+            "title": "Ментальне здоровʼя школярів під час війни",
+            "data":[
+                {"xCat": 2010, "value": 85, "group": "Дуже щасливим або щасливим"},
+                {"xCat": 2010, "value": 3, "group": "Як щасливим, так і не щасивим"},
+                {"xCat": 2010, "value": 11, "group": "Дуже нещасливим і нещасливим"},
+                {"xCat": 2014, "value": 85, "group": "Дуже щасливим або щасливим"},
+                {"xCat": 2014, "value": 9, "group": "Як щасливим, так і не щасивим"},
+                {"xCat": 2014, "value": 6, "group": "Дуже нещасливим і нещасливим"},
+                {"xCat": 2018, "value": 83, "group": "Дуже щасливим або щасливим"},
+                {"xCat": 2018, "value": 7, "group": "Як щасливим, так і не щасивим"},
+                {"xCat": 2018, "value": 10, "group": "Дуже нещасливим і нещасливим"},
+                {"xCat": 2023, "value": 47, "group": "Дуже щасливим або щасливим"},
+                {"xCat": 2023, "value": 43, "group": "Як щасливим, так і не щасивим"},
+                {"xCat": 2023, "value": 11, "group": "Дуже нещасливим і нещасливим"}
+               
+              ]
+        }
+       
+
+        
+ 
+    
+   
+    
+]
